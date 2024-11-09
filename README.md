@@ -31,3 +31,8 @@
 ### Video Generation
 
 [awesome-video-generation](https://github.com/AlonzoLeeeooo/awesome-video-generation)
+
+### Blogs to read when I have time...
+
+[Lil'Log](https://lilianweng.github.io/)
+[科学空间](https://spaces.ac.cn/)
