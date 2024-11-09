@@ -37,3 +37,7 @@
 [Lil'Log](https://lilianweng.github.io/)
 
 [科学空间](https://spaces.ac.cn/)
+
+### Read a Github repo with any LLM
+
+[repo2text](https://github.com/abinthomasonline/repo2txt)
