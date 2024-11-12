@@ -38,6 +38,14 @@
 
 [科学空间](https://spaces.ac.cn/)
 
+### Courses
+
+[AutoRob: Introduction to Autonomous Robotics Michigan ROB 380 / EECS 367 + Mobile Manipulation Systems Michigan ROB 511](https://autorob.org/)
+
+[Robotic Systems Laboratory Michigan ROB 550](https://rob550-docs.github.io/)
+
+[MOBILE ROBOTICS: METHODS & ALGORITHMS Michigan ROB 530](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public)
+
 ### Read a Github repo with any LLM
 
 [repo2text](https://github.com/abinthomasonline/repo2txt)
