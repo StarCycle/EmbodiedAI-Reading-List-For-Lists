@@ -10,6 +10,8 @@
 
 [宇树具身智能社群](https://www.unifolm.com/#/)
 
+[Simulately: Handy information and resources for physics simulators for robot learning research](https://simulately.wiki/)
+
 ### Robotics Manipulation
 
 [Awesome-Robotics-3D](https://github.com/zubair-irshad/Awesome-Robotics-3D)
