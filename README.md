@@ -12,6 +12,12 @@
 
 [Simulately: Handy information and resources for physics simulators for robot learning research](https://simulately.wiki/)
 
+### Following Arxiv List (Refresh on 10AM/summer, 11AM/winter, Beijing time)
+
+[Computer Vision and Pattern Recognition](https://arxiv.org/list/cs.CV/recent?skip=0&show=2000)
+
+[Robotics](https://arxiv.org/list/cs.RO/recent?skip=0&show=2000)
+
 ### Robotics Manipulation
 
 [Awesome-Robotics-3D](https://github.com/zubair-irshad/Awesome-Robotics-3D)
