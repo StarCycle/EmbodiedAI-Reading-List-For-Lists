@@ -36,6 +36,10 @@
 
 [Paper-Reading-List](https://github.com/DeepTimber-Robot-Lab/Paper-Reading-List)
 
+### 具身智能研究者/实验室图谱
+
+[Ivory tower具身机器人专题](https://riqj1o8d3cs.feishu.cn/wiki/OS0KwH4RYi4zhFkdxSLcUM16nqh)
+
 ### Video Generation
 
 [awesome-video-generation](https://github.com/AlonzoLeeeooo/awesome-video-generation)
