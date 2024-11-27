@@ -54,6 +54,8 @@
 
 [MOBILE ROBOTICS: METHODS & ALGORITHMS Michigan ROB 530](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public)
 
-### Read a Github repo with any LLM
+### Reading tools
 
-[repo2text](https://github.com/abinthomasonline/repo2txt)
+[Convert Google Scholar citations info (inc. abstracts of citations) to LLM prompt](https://github.com/StarCycle/Citation2Prompt)
+
+[Convert a Github repo to LLM prompt](https://github.com/abinthomasonline/repo2txt)
