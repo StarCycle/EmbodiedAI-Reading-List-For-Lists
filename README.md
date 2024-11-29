@@ -54,14 +54,16 @@
 
 ### Courses
 
-[AutoRob: Introduction to Autonomous Robotics Michigan ROB 380 / EECS 367 + Mobile Manipulation Systems Michigan ROB 511](https://autorob.org/)
+[Michigan ROB 380 / EECS 367 + Mobile Manipulation Systems Michigan ROB 511](https://autorob.org/): AutoRob: Introduction to Autonomous Robotics
 
-[Robotic Systems Laboratory Michigan ROB 550](https://rob550-docs.github.io/)
+[Michigan ROB 550](https://rob550-docs.github.io/): Robotic Systems Laboratory 
 
-[MOBILE ROBOTICS: METHODS & ALGORITHMS Michigan ROB 530](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public)
+[Michigan ROB 530](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public): MOBILE ROBOTICS: METHODS & ALGORITHMS
 
 ### Reading tools
 
-[Convert Google Scholar citations info (inc. abstracts of citations) to LLM prompt](https://github.com/StarCycle/Citation2Prompt)
+[Citation2Prompt](https://github.com/StarCycle/Citation2Prompt): Convert Google Scholar citations info (inc. abstracts of citations) to LLM prompt
 
-[Convert a Github repo to LLM prompt](https://github.com/abinthomasonline/repo2txt)
+[repo2txt](https://github.com/abinthomasonline/repo2txt): Convert a Github repo to LLM prompt
+
+[connectedpapers](https://www.connectedpapers.com/): Explore academic papers in a visual graph 
