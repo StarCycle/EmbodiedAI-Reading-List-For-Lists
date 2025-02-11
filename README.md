@@ -1,5 +1,9 @@
 # EmbodiedAI-Reading-List-For-Lists
 
+### Jobs
+
+[Awesome Embodied AI Jobs](https://github.com/StarCycle/Awesome-Embodied-AI-Job)
+
 ### Community
 
 [DeepTimber-地瓜机器人社区](https://cn.developer.d-robotics.cc/forumList?id=156&title=Deeptimber)
