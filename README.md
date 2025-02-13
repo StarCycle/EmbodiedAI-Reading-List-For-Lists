@@ -40,6 +40,8 @@
 
 [Paper-Reading-List](https://github.com/DeepTimber-Robot-Lab/Paper-Reading-List)
 
+[A Paper List of Yanjie Ze](https://github.com/YanjieZe/Paper-List)
+
 ### 具身智能研究者/实验室图谱
 
 [公众号：石麻笔记](https://mp.weixin.qq.com/s/vBmjT_9_K8SDmuTwo1WCOA)
