@@ -6,7 +6,7 @@
 
 ### Community
 
-[DeepTimber-地瓜机器人社区](https://gamma.app/public/DeepTimber-Robotics-Innovations-Community-A-Community-for-Multi-m-og0uv8mswl1a3q7?mode=doc)
+[DeepTimber-机器人社区](https://gamma.app/public/DeepTimber-Robotics-Innovations-Community-A-Community-for-Multi-m-og0uv8mswl1a3q7?mode=doc)
 
 [HuggingFace LeRobot (Europe, check the Discord)](https://github.com/huggingface/lerobot)
 
