@@ -24,6 +24,8 @@
 
 ### Robotics Manipulation
 
+[Awesome-Touch](https://github.com/linchangyi1/Awesome-Touch)
+
 [Awesome-Robotics-3D](https://github.com/zubair-irshad/Awesome-Robotics-3D)
 
 [awesome-robotics-datasets](https://github.com/mint-lab/awesome-robotics-datasets)
