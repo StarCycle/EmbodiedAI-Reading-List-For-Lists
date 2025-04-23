@@ -16,6 +16,10 @@
 
 [Simulately: Handy information and resources for physics simulators for robot learning research](https://simulately.wiki/)
 
+### Datasets
+
+[Awesome Embodied AI Datasets](https://github.com/freekatz/Awesome-Embodied-AI-Datasets)
+
 ### Following Arxiv List
 
 [Cool Papers](https://papers.cool/)
